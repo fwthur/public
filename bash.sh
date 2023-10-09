@@ -1,1 +1,1 @@
-echo "BUILD NUMBER: $BUILD_NUMBER" > index.html
+echo "a BUILD NUMBER: $BUILD_NUMBER" > index.html
